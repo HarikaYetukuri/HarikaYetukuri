@@ -1,0 +1,22 @@
+.form {
+  width: 300px;
+  margin: 140px 700px ;
+}
+body
+ {
+  background-image: url("../images/Loginbg.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* .bg-img{
+    background-image: url("images/Naturebackground.jpg");
+    min-height: 300px;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+} */
